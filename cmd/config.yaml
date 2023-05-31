@@ -1,0 +1,6 @@
+PROJECT_NAME: "TEST"
+TEMPLATE_NAME: "https://github.com/rajughoshdev/k8s-template.git"
+ENVS:
+  ENV_CLOUD_PROVIDER: oci
+  ENV_NAMESPACE: development
+  ENV_OCI_REGION: me-jeddah-1 
